@@ -1,0 +1,11 @@
+E:\Farcas Vlad Cristian\C#\C#\2009\2009\2009\bin\Debug\2009.exe.config
+E:\Farcas Vlad Cristian\C#\C#\2009\2009\2009\bin\Debug\2009.exe
+E:\Farcas Vlad Cristian\C#\C#\2009\2009\2009\bin\Debug\2009.pdb
+E:\Farcas Vlad Cristian\C#\C#\2009\2009\2009\obj\Debug\2009.csprojResolveAssemblyReference.cache
+E:\Farcas Vlad Cristian\C#\C#\2009\2009\2009\obj\Debug\_2009.frmMain.resources
+E:\Farcas Vlad Cristian\C#\C#\2009\2009\2009\obj\Debug\_2009.Properties.Resources.resources
+E:\Farcas Vlad Cristian\C#\C#\2009\2009\2009\obj\Debug\2009.csproj.GenerateResource.Cache
+E:\Farcas Vlad Cristian\C#\C#\2009\2009\2009\obj\Debug\2009.exe
+E:\Farcas Vlad Cristian\C#\C#\2009\2009\2009\obj\Debug\2009.pdb
+E:\Farcas Vlad Cristian\C#\C#\2009\2009\2009\obj\Debug\_2009.Despre.resources
+E:\Farcas Vlad Cristian\C#\C#\2009\2009\2009\obj\Debug\_2009.frmCalc.resources
